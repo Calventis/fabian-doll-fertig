@@ -26,7 +26,7 @@ const AboutSection: React.FC = () => {
           <AnimatedSection>
             <div className="relative">
               <img
-                src="https://fvlvtfzdbotdsuibsiyb.supabase.co/storage/v1/object/sign/media-doll/Fabian%20Doll%20Website/neue%20stock%20images/beispielfoto.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5XzJmMWM1M2I5LTdjZjEtNDg0Zi1hMTk3LTZiM2Y4Njc3ZWI2YyJ9.eyJ1cmwiOiJtZWRpYS1kb2xsL0ZhYmlhbiBEb2xsIFdlYnNpdGUvbmV1ZSBzdG9jayBpbWFnZXMvYmVpc3BpZWxmb3RvLmpwZyIsImlhdCI6MTc0NjQyMTMyNSwiZXhwIjoyODE4NjQ1MzI1fQ.HQwGxs7su0itjD2GHnlv3CKc174yCnspwCA1PE4xsw4"
+                src="https://fvlvtfzdbotdsuibsiyb.supabase.co/storage/v1/object/sign/media-doll/Fabian%20Doll%20Website/Logo%20Doll%20transparent.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN0b3JhZ2UtdXJsLXNpZ25pbmcta2V5XzJmMWM1M2I5LTdjZjEtNDg0Zi1hMTk3LTZiM2Y4Njc3ZWI2YyJ9.eyJ1cmwiOiJtZWRpYS1kb2xsL0ZhYmlhbiBEb2xsIFdlYnNpdGUvTG9nbyBEb2xsIHRyYW5zcGFyZW50LnBuZyIsImlhdCI6MTc0Njg1NjM4NSwiZXhwIjoyNzg3NTQ0Mzg1fQ.3Lfaskl9Dz7b6BXyWHnmXLgSIqZoZwtRUHJjMQahBMc"
                 alt="Über Fabian Doll Gebäudereinigung"
                 className="w-full h-[600px] object-cover rounded-xl"
               />
